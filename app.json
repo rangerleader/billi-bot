@@ -1,7 +1,7 @@
 {
   "name": "Catuserbot",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "logo": "https://telegra.ph/file/7f3a847df07eb020f8258.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -13,15 +13,15 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "xnxx"
+      "value": "𝘾𝘼𝙋𝙏𝙄𝘼𝙉 𝘼𝙈𝙀𝙍𝙄𝘾𝘼"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "5338290e5ede9e760587dc3faea679da6c96fa1"
+      "value": "4624484"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "e5ede9e760587dc3faea679da6c96fa1"
+      "value": "67a343ab0691866327df66ddb94e239c"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
@@ -29,15 +29,15 @@
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
-      "value": "@spammeroppppsbot"
+      "value": "@CAPTAIN_AMERICA_OP_BOT"
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "1795559243:AAFyaZ7wV5CgJRalZSmO5L3pZMEBvDf1dG4"
+      "value": "1803460376:AAFa15pvUzZJLuP6LnCJ9b9Goj2_UWoA_PE"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
-      "value": ",",
+      "value": ".",
       "required": false
     },
     "ENV": {
@@ -47,7 +47,7 @@
     },
     "SUDO_USERS": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "1656826093 1762036884",
+      "value": "1869436510",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
