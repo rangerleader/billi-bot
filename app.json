@@ -47,7 +47,7 @@
     },
     "SUDO_USERS": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "1869436510",
+      "value": "1869436510 1843861992",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
